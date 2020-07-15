@@ -1,0 +1,221 @@
+/* Heared */
+.header_link-bold {
+    font-weight: bold;
+}
+
+.header_link {
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+
+    color: #1E0606;
+}
+
+.header_list {
+    list-style-type: none;
+}
+
+
+/* main-top */
+
+.main-top {
+    background-color: #EEE4DB;
+}
+
+.main-top_linelist {
+    list-style-type: none;
+}
+
+.main-top_line {
+background-color: rgba(30, 6, 6, 0.6);
+width: 31px;
+height: 3px;
+}
+
+.main-top_title {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 44px;
+    color: #1E0606;
+}
+
+.main-top_counter {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 73px;
+    color: rgba(30, 6, 6, 0.05);
+}
+
+.main-top_text {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #1E0606;
+}
+
+.main-top_underline {
+    background-color: #C29974;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+/* products */
+
+.products_title {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+}
+
+.products_item-title {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 40px rgba(147, 3, 3, 0.25);
+}
+
+.products_item-1 {
+    background-color: #DBE4DB;
+    background-image: url(./images/short-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 280px;
+    height: 270px;
+}
+.products_item-2 {
+    background-color: rgba(186, 142, 107, 0.3);
+    background-image: url(./images/sock.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 280px;
+    height: 270px;
+}
+.products_item-3 {
+    background-color: #F8F2DA;
+    background-image: url(./images/dear-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 280px;
+    height: 270px;
+}
+.products_item-4 {
+    background-color: rgba(9, 3, 79, 0.17);
+    background-image: url(./images/scater.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 280px;
+    height: 270px;
+}
+
+.products_button {
+    width: 37px;
+    height: 37px;
+    background-color:rgba(112, 187, 220, 0.2);
+    border: none;
+}
+
+.products_button-left {
+    background-image: url(./images/p-left.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.products_button-right {
+    background-image: url(./images/p-right.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.products_text {
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E0606;
+}
+
+/* delivery */
+
+.delivery_title {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+}
+
+.delivery_link {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+}
+
+.delivery_text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E0606;
+}
+
+
+/* info */
+
+.info_title {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+}
+
+.info_subtitle {
+    font-family: Crimson Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #1E0606;
+}
+
+.info_text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1E0606;
+}
+
+.info_about-us {
+    background-color: #E1F0F7;
+}
+
+.info_contacts {
+    background-color: #E1F0F7;
+}
+
+

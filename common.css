@@ -1,0 +1,123 @@
+/* общее */
+*, *::before, *::after { box-sizing: inherit; }
+
+body { 
+    font-family: 'Open Sans', sans-serif;
+}
+
+a { 
+    text-decoration: none; 
+}
+
+html { 
+    box-sizing: border-box; 
+}
+
+img { 
+    max-width: 100%; 
+}
+
+bold {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* button */
+
+.button {
+    background-color: #000000;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    color: #FFFFFF;
+}
+
+/* Heared */
+.header_link-bold {
+    font-weight: bold;
+}
+
+.header_link {
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+
+    color: #1E0606;
+}
+
+.header_list {
+    list-style-type: none;
+}
+
+/* Links all pages */
+
+.this-link {
+    opacity: 0.5;
+}
+
+.arrow {
+    background-image: url(./images/arrow.svg);
+    width: 8px;
+    height: 12px; 
+}
+
+
+
+/* footer */
+footer {
+    background-color: #434343;;
+}
+
+.footer-title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #AAAAAA;
+}
+
+.footer-link {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.footer-underline {
+    background-image: url(./images/Line.svg);
+    width: 380px;
+    height: 1px;
+}
+
+.footer-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+}
+
+.footer-developer {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #A2A2A2;
+}
+
+.star {
+    background-color: #434343;
+    border: none;
+}
+
